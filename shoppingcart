@@ -1,0 +1,12 @@
+<div class="simpleCart_shelfItem">
+    <img src="http://4.bp.blogspot.com/-lccmAxlwu2A/T8EGermH9wI/AAAAAAAAGSQ/fSjtkrYhl_g/s1600/sarimbit-batik-pasangan2.jpg" class="item_thumb" />
+    <h2 class="item_name"> Batik Wanita Modern </h2>
+    <select class="item_size">
+        <option value="Small"> Small </option>
+        <option value="Medium"> Medium </option>
+        <option value="Large"> Large </option>
+    </select>
+    <input type="text" value="1" class="item_Quantity">
+    <span class="item_price">MYR35</span>
+    <a class="item_add" href="javascript:;"> Add to Cart </a>
+</div>

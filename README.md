@@ -1,4 +1,0 @@
-simpleCart.js
-=============
-
-simpleCart
